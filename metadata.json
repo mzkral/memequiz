@@ -1,0 +1,6 @@
+{
+  "name": "Meme Yarışması - Türk İnternet Meme Trivia Arenası",
+  "description": "Türk internet kültürünün unutulmaz video memeleri, kült replikleri ve capsleri üzerine kurulu eğlenceli bilgi yarışması ve ansiklopedisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
